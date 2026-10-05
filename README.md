@@ -44,4 +44,4 @@ Certifique-se de ter o **Node.js** instalado.
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/thivgo/React_Test_Mobile-Desktop.git](https://github.com/thivgo/React_Test_Mobile-Desktop.git)
+   git clone [https://github.com/thivgo/LTD-Descarte-Aqui.git](https://github.com/thivgo/LTD-Descarte-Aqui.git)
